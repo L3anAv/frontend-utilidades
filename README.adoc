@@ -1,0 +1,243 @@
+== Utilidades Frontend | Otros
+&#13;
+
+[comment]
+Author <mail@mail.com>, {docdate}.
+
+
+[comment]
+Author <mail@mail.com>, {docdate}.
+
+[[Indice]]
+=== Índice
+&#13;
+
+. **Utilidades Generales:**
+
+* <<SeccionColor,Color>>
+* <<SeccionIconos, Iconos>>
+* <<SeccionFuentes,Fuentes>>
+* <<SeccionGeneradores, Generadores>>
+* <<SeccionUtilidadesVarias, Utilidades Varias>>
+
+. **Utilidades React:**
+
+* <<SeccionLibreriasReact, Librerias React>>
+
+[[SeccionColor]]
+=== Color
+&#13;
+<<Indice,Volver al Indice>>
+&#13;
+[cols="1,2,3,1"]
+
+|===
+| Logo | Nombre| Descripción| Link 
+
+| image:https://colormagic.app/favicon.ico[width=25]
+| ColorMagic
+| Paletas de colores generadas con IA.
+| https://colormagic.app/[ColorMagic]
+
+| [ NO LOGO ]
+| Inversor de  color
+| Sirve para encontrar el color opuesto de uno especificado.
+| https://colorinverter.imageonline.co/es/[Inversor de colores,role=light]
+
+| image:https://uicolors.app/favicon.ico[width=25]
+| UIcolors
+| Genera paleta de colores apartir de un color para tu UI.
+| https://uicolors.app/create[UI colors]
+
+
+| image:https://colorhunt.co/img/colorhunt-favicon.svg?2[width=25]
+| Color Hunt
+| Coleccion de paletas de colores, herramientas para generar las mismas de manera aleatoria o bajo criterios establecidos.
+| https://colorhunt.co/[Color  Hunt,role=yellow]
+
+|===
+
+[[SeccionIconos]]
+=== Iconos
+&#13;
+<<Indice,Volver al Indice>>
+&#13;
+
+[cols="1,2,3,1"]
+
+|===
+| Logo | Nombre| Descripción| Link 
+
+| image:https://www.mingcute.com/static/images/logo.svg[]
+| MingCute Icon
+| MingCute es un conjunto de iconos en SVG, PNG, entre otros, de código abierto.
+|https://www.mingcute.com/[MingCute,role=light]
+
+| image:https://iconoir.com/favicon.ico[width=32]
+| Iconoir
+| Biblioteca de iconos open source.
+| https://iconoir.com/[Iconoir, role=green]
+
+| image:https://www.svgrepo.com/favicon.ico[width=22]
+| SVG Repo
+| Coleccion de iconos svg varios.
+| https://www.svgrepo.com/[SVG Repo,role=light]
+
+| image:https://heroicons.com/_next/static/media/favicon-32x32.2a23e45f.png[width=22]
+| Herecoins
+| Colección de Hermosos íconos SVG hechos a mano, por los creadores de Tailwind CSS.
+| https://heroicons.com/[Herecoins,role=purple]
+
+
+|===
+
+
+[[SeccionFuentes]]
+===  Fuentes  
+&#13;
+<<Indice,Volver al Indice>>
+&#13;
+
+[cols="1,2,3,1"]
+
+|===
+| Logo | Nombre| Descripción| Link 
+
+| image:https://i.ibb.co/zxbgf0T/fountsource.png[]
+| Fontsource
+| Fontsource es una colección de fuentes de código abierto que se agrupan en paquetes NPM individuales para que las aloje usted mismo en sus aplicaciones web.
+| https://fontsource.org/[Fontsource,role=purple]
+
+| [ NO LOGO ]
+| Font Library
+| Libreria de fuentes de libre uso.
+| https://fontlibrary.org/es[Font Library, role=black]
+
+| image:https://www.gstatic.com/images/branding/product/1x/google_fonts_96dp.png[width=32]
+| Google Fonts
+| Coleccion de fuentes proporcionada por google para uso.
+| https://fonts.google.com/[Google Fonts]
+
+| image:https://justmytype.co/favicon.png[width=22]
+| Just My Type
+| Pares  de fuentes que quedan bien entre ellas.
+| https://justmytype.co/?utm_content=bufferff44c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Just My Type, role=red]
+
+| image:https://play.typedetail.com/favicon.png[width=22]
+| Font Playground
+| Sirve para testear fuentes.
+| https://play.typedetail.com/[Font Playground, role=black]
+
+| image:https://clamp.font-size.app/icons/favicon-32x32.png[width=22]
+| Clamb Font Size App
+| Herramienta para setear **clamp()** rápidamente.
+| https://clamp.font-size.app/[Clam Font Size, role=blue]
+
+| image:https://fontjoy.com/favicon32.gif[width=22]
+| FontJoy
+| Herramienta que te ayuda a combinar fuentes.
+| https://fontjoy.com/[FontJoy,role=blue]
+
+
+|===
+
+[[SeccionGeneradores]]
+=== Generadores
+&#13;
+<<Indice,Volver al Indice>>
+&#13;
+
+[cols="1,2,3,1"]
+
+|===
+| Logo | Nombre| Descripción| Link 
+
+| image:https://readme.so/readme.svg[width=32]
+| Generador de README.md
+| Herramienta para crear tu readme con markdown fácilmente.
+| https://readme.so/es/editor[Readme.so, role=green]
+
+| image:https://asciidoc-generator.vercel.app/assets/favicon-32x32-BQerQ6-K.png[width=25]
+| Generador de README.adoc
+| Herramienta para crear tu readme con asciidoc  fácilmente.
+| https://asciidoc-generator.vercel.app/[AsciiDoc Generator, role=maroon]
+
+| image:https://i.ibb.co/VBfyXMm/favicon.png[width=32]
+| Generador de sombras CSS
+| Herramienta para crear sombras CSS fácilmente.
+| https://www.cssmatic.com/es/box-shadow[Generador CSS]
+
+| image:https://d2wywi1esboz4t.cloudfront.net/img/ico128.png[width=32]
+| Generador de GRID CSS
+| Herramienta para generar grid CSS fácilmente.
+| https://grid.layoutit.com/[Grid Generator, role=light]
+
+| image:https://cssgradient.io/images/favicon-23859487.png[width=22]
+| Generador CSS Gradients
+| Herramienta para crear fácilmente degradados con CSS.
+| https://cssgradient.io/[CSS Gradients, role=ligth]
+
+| image:https://www.magicpattern.design/static/favicons/favicon-32x32.png[width=30]
+| CSS Patterns
+| Coleccion de patros hechos con CSS para tu proyecto.
+| https://www.magicpattern.design/tools/css-backgrounds[CSS Patterns, role=purple]
+
+|===
+
+[[SeccionUtilidadesVarias]]
+=== Utilidades Varias
+&#13;
+<<Indice,Volver al Indice>>
+&#13;
+
+[cols="1,2,3,1"]
+
+|===
+| Logo | Nombre| Descripción| Link 
+
+| image:https://buttons.github.io/favicon.ico[width=30]
+| GitHub Buttons
+| Crea botones asociados a un repositorio rápidamente. 
+| https://buttons.github.io/[Github Buttons, role=black]
+
+| image:https://tree.nathanfriend.io/favicon-32x32.png[width=22]
+| Tree NathanFriend
+| Tree es una utilidad en línea para generar diagramas de estructura de carpetas en ASCII. Para documentar la estructura de carpetas de tus proyectos.
+| https://tree.nathanfriend.io//[Tree,role=black]
+
+| image:https://caninclude.glitch.me/assets/logo.svg[width=23,height=auto]
+| Caninclude
+| ¿Puedo incluir una etiqueta HTML en otra?
+| https://caninclude.glitch.me/[Caninclude,role=red]
+
+| image:https://cssloaders.github.io/images/favicon-32x32.png[width=28]
+| CSS Loaders y Spinners
+| Colección de spinners y loaders para agregar a tus proyectos.
+| https://cssloaders.github.io/[Loaders y spinners, role=red]
+
+| image:https://www.projectwallace.com/favicon.png[width=25]
+| CSS Code Quality
+| Analiza la calidad de tu css en tu web.
+| https://www.projectwallace.com/css-code-quality[CSS Code Quality,role=light]
+
+| image:https://www.colorsandfonts.com/images/favicons/favicon-32x32.png[width=30]
+| Colors & Font Conbinations
+| Listado de combinaciones de colores, fuentes, etc.
+| https://www.colorsandfonts.com/[Colors & Font Conbinations, role=blue]
+
+| image:https://camo.githubusercontent.com/50cf39121274b3db22bf1bd72cbe25af9078e037441cb5b5bdef1cc9dc5eb2f7/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667[]
+| Awesome Badges
+| Una lista seleccionada de insignias para tu próximos proyectos.
+| http://envoy1084.me/awesome-badges/[Awesome Badges,role=purple]
+
+
+|===
+
+
+~Colección~ ~hecha~ ~usando~ ~https://asciidoc-generator.vercel.app[Asciidoc,role=button,window=_blank]~ ~💖.~
+
+~2024~
+
+
+
+
