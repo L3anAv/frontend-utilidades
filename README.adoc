@@ -39,7 +39,7 @@ Author <mail@mail.com>, {docdate}.
 | Paletas de colores generadas con IA.
 | https://colormagic.app/[ColorMagic]
 
-| [ NO LOGO ]
+| image:https://imageonline.co/favicon.png[width=22]
 | Inversor de  color
 | Sirve para encontrar el color opuesto de uno especificado.
 | https://colorinverter.imageonline.co/es/[Inversor de colores,role=light]
