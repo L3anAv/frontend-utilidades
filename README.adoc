@@ -55,6 +55,11 @@ Author <mail@mail.com>, {docdate}.
 | Coleccion de paletas de colores, herramientas para generar las mismas de manera aleatoria o bajo criterios establecidos.
 | https://colorhunt.co/[Color  Hunt,role=yellow]
 
+| image:https://randoma11y.com/randoma11y-avatar.jpg[width=25]
+| Randoma11y
+| Herramienta para generar paleta de colores accesibles.
+| https://randoma11y.com/[Randoma11y,role=black]
+
 |===
 
 [[SeccionIconos]]
