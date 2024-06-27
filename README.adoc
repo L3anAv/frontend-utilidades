@@ -5,8 +5,6 @@ Author <mail@mail.com>, {docdate}.
 
 Coleccion de utilidades y herramientas para centrado para frontend, pero también general.
 
----
-
 [[Indice]]
 == Índice
 &#13;
@@ -27,7 +25,7 @@ Coleccion de utilidades y herramientas para centrado para frontend, pero tambié
 
 {nbsp}{nbsp}{nbsp}{nbsp}3.1{nbsp} <<SeccionExtensiones, Extensiones Usadas>>
 
-= Utilidades
+== Utilidades
 
 [[SeccionColor]]
 == Color
