@@ -3,7 +3,7 @@
 [comment]
 Author <mail@mail.com>, {docdate}.
 
-Coleccion de utilidades y herramientas para centrado para frontend, pero también general.
+Coleccion de utilidades y herramientas centrado para frontend, pero también para otras utilidades en general.
 
 [[Indice]]
 == Índice
